@@ -1,0 +1,27 @@
+header{
+    background-color: #ba800b;
+    width: 940px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+
+ul{
+    display: inline;
+}
+
+
+
+
+
+footer{
+    background-color: #ba800b;
+    width: 940px;
+}
+
+#signature{
+    text-align: center;
+}
