@@ -82,5 +82,9 @@ footer{
     width: 230px;
     height: 165px;
     margin: -0.5% -1%;
-    padding: -35px -25px; 
+    padding: -35px -25px;    
+}
+.imagen-a ,.imagen-c{
+    border-radius: 75%;
+    border: 2px solid black ;
 }
