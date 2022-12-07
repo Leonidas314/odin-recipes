@@ -88,3 +88,6 @@ footer{
     border-radius: 75%;
     border: 2px solid black ;
 }
+.imagen-a:hover{
+    border-color: #dfb912;
+}
