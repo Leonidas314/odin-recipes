@@ -64,7 +64,10 @@ footer{
 
 #signature{
     text-align: center;
-    color: antiquewhite;
+    color: #f7e7b2;
+    text-shadow: 1px 1px 2px red, 0 0 1em rgb(100, 55, 29), 0 0 0.2em rgb(22, 19, 9);
+    margin-top: auto;
+    padding-top: 5%;
 }
 
 .imagen-a{
@@ -90,4 +93,5 @@ footer{
 }
 .imagen-a:hover{
     border-color: #dfb912;
+    transform: scale(1.2);
 }
