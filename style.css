@@ -115,13 +115,20 @@ footer{
     width: 475px;
     height: 300x;
     border-radius: 10%;
+    float: right;
 }
 .receta{
     padding-top: 10%;
 }
+
 .box{
-    float: left;
+   float: left ;
 }
+.box .description{
+    float: left;
+    font-size: 15px;
+}
+.box , h2
 /*.imgbox{
  
 }
