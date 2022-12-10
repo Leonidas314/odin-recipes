@@ -116,6 +116,7 @@ footer{
     height: 300x;
     border-radius: 10%;
     float: right;
+    padding-right: 10%;
 }
 .receta{
     padding-top: 10%;
@@ -125,13 +126,13 @@ footer{
    float: left ;
 }
 .box .description{
-    float: left;
-    font-size: 15px;
+   display: block;
 }
-.box , h2
-/*.imgbox{
- 
+div.boximg{ 
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
 }
-.ingredientes{
-    
-}*/
+.topbox{
+   display: inline-block;
+}
