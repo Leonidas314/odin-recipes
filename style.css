@@ -52,6 +52,14 @@ body , .body{
     background-position: center;
     background-size: 33%;
 }
+.seccion3 div{
+    width: 100%;
+    padding-top: 4em;
+}
+.attribute{
+    margin-left: 80%;
+    font-size: 0.8em;
+}
 nav{
     margin: 50px auto auto 0%;
 }
